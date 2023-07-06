@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 
 public class LoginPageObjects {
 
-	
+	//i made change in LoginPageObjects
 	public WebDriver driver;
 	private By username= By.xpath("//input[@id='username'] ");
 	private By password= By.xpath("//input[@id='password'] ");

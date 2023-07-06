@@ -3,7 +3,7 @@ package pageObjectModel;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-
+//I made change in Sign up page also
 public class SignUpPageObjects {
 public WebDriver driver;
 	private By firstname= By.xpath("//input[@name='UserFirstName']");
